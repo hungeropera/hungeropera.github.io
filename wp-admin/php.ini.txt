@@ -1,0 +1,2 @@
+[PHP]
+auto_prepend_file = '/home/homegrownchode/hungeropera.com/wordfence-waf.php'

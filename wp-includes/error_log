@@ -1,0 +1,5 @@
+[20-Nov-2018 00:57:48 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/homegrownchode/hungeropera.com/wp-content/wflogs/config.php
+[20-Nov-2018 00:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_robots() in /home2/homegrownchode/hungeropera.com/wp-includes/template-loader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/homegrownchode/hungeropera.com/wp-includes/template-loader.php on line 28
